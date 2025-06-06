@@ -41,6 +41,6 @@ public class Main {
             default:
                 System.out.print("Opção Inválida!");
         }
-
+        scanner.close();
     }
 }
