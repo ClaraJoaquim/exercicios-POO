@@ -16,5 +16,7 @@ public class Main5 {
         n = scanner.nextInt();
 
         maiorEMenor.criarMatriz(m, n);
+
+        scanner.close();
     }
 }

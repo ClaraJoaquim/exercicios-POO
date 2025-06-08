@@ -29,4 +29,5 @@ public class MaiorEMenor {
         System.out.println("\nMaior elemento da matriz: " + maior);
         System.out.println("Menor elemento da matriz: " + menor);
     }
+    scanner.close();
 }

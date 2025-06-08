@@ -16,8 +16,6 @@ public class Main3 {
             long resultado = fatorial.calcularFatorial(num);
             System.out.print("O resultado de " + num + " fatorial é: " + resultado);
         }
-
         scanner.close();
-
     }
 }

@@ -22,6 +22,8 @@ public class Main8 {
         System.out.println("\n--- Depois da troca ---");
         System.out.println("objA.valor = " + objA.valor);
         System.out.println("objB.valor = " + objB.valor);
+
+        scanner.close();
     }
     public static void trocarValores(ValorContainer refA, ValorContainer refB) {
         int var = refA.valor;

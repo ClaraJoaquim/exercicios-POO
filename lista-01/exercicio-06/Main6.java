@@ -19,5 +19,7 @@ public class Main6 {
 
     System.out.println("A soma da diagonal principal é: " + somaPrincipal);
     System.out.println("A soma da diagonal secundária é: " + somaSecundaria);
+
+    scanner.close();
     }
 }

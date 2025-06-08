@@ -11,5 +11,6 @@ public class Main7 {
 
         numero.imprimirNumero();
 
+        scanner.close();
     }
 }
